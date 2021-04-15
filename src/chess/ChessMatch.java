@@ -155,7 +155,7 @@ public class ChessMatch {
 		board.placePiece(newPiece, pos);
 		piecesOnTheBoard.add(newPiece);
 		
-		return newPiece;
+		return newPiece; 
 		
 		
 	}
